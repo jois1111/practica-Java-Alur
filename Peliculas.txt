@@ -1,0 +1,1 @@
+nombre='Terminator', fechaDeLanzamiento=1991 duracion= 39
